@@ -22,5 +22,20 @@ namespace Fisher.Bookstore.Tests
             //Assert
             Assert.Equal(7.99, book.Price);
         }
+
+        [Fact]
+        public void TestMemberDiscount()
+        {
+            //Arrange
+            var book = new Book();
+            {
+                Id = 1;
+                Title = "My Test Book";
+                Price = 9.99;
+            };
+
+            //Act
+            book.ApplyMemberDiscout();
+        }
     }
 }
