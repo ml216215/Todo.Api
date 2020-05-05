@@ -35,7 +35,11 @@ namespace Fisher.Bookstore.Tests
             };
 
             //Act
-            book.ApplyMemberDiscount();
+            object p = book.ApplyMemberDiscount();
+
+            //Assert
+            var discountPrice = 9.99 * .9;
+            Assert.Equals(discountPrice, book.Price);
         }
     }
 }
