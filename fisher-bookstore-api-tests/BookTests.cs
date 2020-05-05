@@ -35,7 +35,7 @@ namespace Fisher.Bookstore.Tests
             };
 
             //Act
-            book.ApplyMemberDiscout();
+            book.ApplyMemberDiscount();
         }
     }
 }
