@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zero\\Desktop\\AMIS3610\\Fisher.Bookstore.Tests\\Fisher.Bookstore.Tests.csproj": {}
+    "C:\\Users\\zero\\Desktop\\AMIS3610\\fisher-bookstore-api-tests\\Fisher.Bookstore.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zero\\Desktop\\AMIS3610\\Fisher.Bookstore.Tests\\Fisher.Bookstore.Tests.csproj": {
+    "C:\\Users\\zero\\Desktop\\AMIS3610\\fisher-bookstore-api-tests\\Fisher.Bookstore.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zero\\Desktop\\AMIS3610\\Fisher.Bookstore.Tests\\Fisher.Bookstore.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\zero\\Desktop\\AMIS3610\\fisher-bookstore-api-tests\\Fisher.Bookstore.Tests.csproj",
         "projectName": "Fisher.Bookstore.Tests",
-        "projectPath": "C:\\Users\\zero\\Desktop\\AMIS3610\\Fisher.Bookstore.Tests\\Fisher.Bookstore.Tests.csproj",
+        "projectPath": "C:\\Users\\zero\\Desktop\\AMIS3610\\fisher-bookstore-api-tests\\Fisher.Bookstore.Tests.csproj",
         "packagesPath": "C:\\Users\\zero\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zero\\Desktop\\AMIS3610\\Fisher.Bookstore.Tests\\obj\\",
+        "outputPath": "C:\\Users\\zero\\Desktop\\AMIS3610\\fisher-bookstore-api-tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zero\\AppData\\Roaming\\NuGet\\NuGet.Config"
